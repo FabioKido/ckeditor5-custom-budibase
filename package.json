@@ -1,5 +1,5 @@
 {
-  "name": "ckeditor5-custom-build",
+  "name": "ckeditor5-custom-budibase",
   "author": "CKSource",
   "description": "A custom CKEditor 5 build made by the CKEditor 5 online builder.",
   "keywords": [
@@ -18,7 +18,7 @@
   ],
   "version": "0.0.1",
   "license": "SEE LICENSE IN LICENSE.md",
-  "package-name": "@fabiokido/ckeditor5-custom-build",
+  "package-name": "ckeditor5-custom-budibase",
   "main": "./build/ckeditor.js",
   "files": [
     "build"
@@ -60,6 +60,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/FabioKido/ckeditor5-custom"
+    "url": "https://github.com/FabioKido/ckeditor5-custom-budibase"
   }
 }
